@@ -39,10 +39,11 @@ namespace _18_4
         /// Переопределение метода Age() класса Person
         /// </summary>
         /// <returns> Возраст </returns>
-        public override int Age()
+        /*public override int Age()
         {
             return base.Age();
-        }
+        }*/
+
         /// <summary>
         /// Переопределение метода Info() класса Person
         /// </summary>

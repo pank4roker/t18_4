@@ -85,6 +85,7 @@ namespace _18_4
                         teachers.RemoveAt(index - 1);
                         break;
                     case '4':
+                        Clear();
                         Write("Введите начало диапозона лет: ");
                         int ndiap = Convert.ToInt32(ReadLine());
                         Write("Введите конец диапозона лет: ");
@@ -149,6 +150,7 @@ namespace _18_4
                         students.RemoveAt(index - 1);
                         break;
                     case '4':
+                        Clear();
                         Write("Введите начало диапозона лет: ");
                         int ndiap = Convert.ToInt32(ReadLine());
                         Write("Введите конец диапозона лет: ");
@@ -213,6 +215,7 @@ namespace _18_4
                         enrollees.RemoveAt(index - 1);
                         break;
                     case '4':
+                        Clear();
                         Write("Введите начало диапозона лет: ");
                         int ndiap = Convert.ToInt32(ReadLine());
                         Write("Введите конец диапозона лет: ");

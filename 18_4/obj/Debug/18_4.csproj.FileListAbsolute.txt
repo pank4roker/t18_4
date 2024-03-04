@@ -6,3 +6,10 @@ C:\Users\Kirill\Desktop\18_4\obj\Debug\18_4.csproj.SuggestedBindingRedirects.cac
 C:\Users\Kirill\Desktop\18_4\obj\Debug\18_4.csproj.CoreCompileInputs.cache
 C:\Users\Kirill\Desktop\18_4\obj\Debug\18_4.exe
 C:\Users\Kirill\Desktop\18_4\obj\Debug\18_4.pdb
+C:\Users\Kab-31-13\Downloads\t18_4-main\t18_4-main\18_4\bin\Debug\18_4.exe.config
+C:\Users\Kab-31-13\Downloads\t18_4-main\t18_4-main\18_4\bin\Debug\18_4.exe
+C:\Users\Kab-31-13\Downloads\t18_4-main\t18_4-main\18_4\bin\Debug\18_4.pdb
+C:\Users\Kab-31-13\Downloads\t18_4-main\t18_4-main\18_4\obj\Debug\18_4.csproj.AssemblyReference.cache
+C:\Users\Kab-31-13\Downloads\t18_4-main\t18_4-main\18_4\obj\Debug\18_4.csproj.CoreCompileInputs.cache
+C:\Users\Kab-31-13\Downloads\t18_4-main\t18_4-main\18_4\obj\Debug\18_4.exe
+C:\Users\Kab-31-13\Downloads\t18_4-main\t18_4-main\18_4\obj\Debug\18_4.pdb

@@ -45,7 +45,7 @@ namespace _18_4
         /// Виртуальный метод возраста
         /// </summary>
         /// <returns></returns>
-        virtual public int Age()
+        /*virtual public int Age()
         {
             if (DateTime.Now > Dateofbirth.AddYears(DateTime.Now.Year - Dateofbirth.Year))
             {
@@ -55,6 +55,11 @@ namespace _18_4
             {
                 return DateTime.Now.Year - Dateofbirth.Year;
             }
+        }*/
+
+        public int Age()
+        {
+            return DateTime.Now.Year - Dateofbirth.Year;
         }
         /// <summary>
         /// Виртуальный метод вывода

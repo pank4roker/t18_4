@@ -37,10 +37,10 @@ namespace _18_4
         /// Переопределение метода Age() класса Person
         /// </summary>
         /// <returns> Возраст </returns>
-        public override int Age()
+        /*public override int Age()
         {
             return base.Age();
-        }
+        }*/
         /// <summary>
         /// Переопределение метода Info() класса Person
         /// </summary>
@@ -56,7 +56,7 @@ namespace _18_4
         public static Student Input()
         {
             WriteLine();
-            string who = "СтуденТ";
+            string who = "Студент";
             Write("Введите имя: ");
             string name = ReadLine();
             Write("Введите фамилию: ");
